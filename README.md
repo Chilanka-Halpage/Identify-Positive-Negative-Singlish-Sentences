@@ -6,5 +6,5 @@ This repo contains
   * Sample data set
   * Sinhala stop words list
 
-> To run the code, Jupyter notebook or google colabs can be used. Python needs to be installed to run in local envoirnment with Jupyter. Imprted packages may have to be installed too.
+> To run the code, Jupyter notebook or google colabs can be used. Python needs to be installed to run in local envoirnment with Jupyter. Improted packages may have to be installed too.
 
